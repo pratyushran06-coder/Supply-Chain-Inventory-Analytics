@@ -1,0 +1,16 @@
+Supplier_ID,Supplier_Name,Location,Rating
+SUP01,Apex Logistics & Components,"Chicago, IL, USA",4.8
+SUP02,Nexis Global Electronics Corp,"Shenzhen, Guangdong, CN",4.6
+SUP03,Titan Industrial Machine Parts,"Detroit, MI, USA",4.2
+SUP04,Vanguard Raw Materials Ltd,"Houston, TX, USA",3.8
+SUP05,OmniPack Sustainable Packaging,"Columbus, OH, USA",4.5
+SUP06,Stuttgart Precision Engineering,"Stuttgart, Baden-Wurttemberg, DE",4.9
+SUP07,Pacific Basin Chemical & Polymers,"Incheon, Gyeonggi, KR",3.5
+SUP08,Frontier Industrial Tools Co,"Monterrey, Nuevo Leon, MX",4.1
+SUP09,EcoFiber & Box Packaging Co,"Atlanta, GA, USA",3.9
+SUP10,Keystone Heavy Hydraulics Inc,"Pittsburgh, PA, USA",3.2
+SUP11,Tokyo Micro-Sensing Systems,"Tokyo, Kanto, JP",4.7
+SUP12,Delta Facility Safety & MRO,"Indianapolis, IN, USA",4.4
+SUP13,Summit Alloy & Metallurgy Group,"Cleveland, OH, USA",3.6
+SUP14,Alliance Global Freight & Stock,"Rotterdam, South Holland, NL",4.0
+SUP15,RapidSource Industrial Supply,"Dallas, TX, USA",3.1

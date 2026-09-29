@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Unit_Cost,Reorder_Level,Lead_Time_Days
+P001,Microcontroller MCU-32,Electronics & Components,18.5,150,14
+P002,Lithium-Ion Battery Cell 3.7V,Electronics & Components,6.2,400,12
+P003,Industrial PCB Motherboard,Electronics & Components,85.0,50,21
+P004,Capacitor Assortment Pack 100uF,Electronics & Components,3.4,500,10
+P005,Thermal Heat Sink 50mm,Electronics & Components,7.8,250,8
+P006,High-Speed Fiber Optic Transceiver,Electronics & Components,120.0,30,25
+P007,Power Inverter Module 500W,Electronics & Components,65.5,60,18
+P008,Step-Down Voltage Regulator IC,Electronics & Components,2.1,800,7
+P009,OLED Graphic Display Panel 2.4in,Electronics & Components,24.0,120,15
+P010,Precision Brushless DC Motor,Electronics & Components,45.0,80,20
+P011,Heavy-Duty Ball Bearing 6205-2RS,Mechanical & Industrial Tools,12.5,300,10
+P012,Hydraulic Pressure Relief Valve,Mechanical & Industrial Tools,110.0,40,22
+P013,Cast Iron V-Belt Pulley 120mm,Mechanical & Industrial Tools,32.0,90,14
+P014,Tungsten Carbide CNC Drill Bit Set,Mechanical & Industrial Tools,75.0,70,16
+P015,Stainless Steel Flange DN50,Mechanical & Industrial Tools,42.5,85,15
+P016,Pneumatic Air Cylinder 50x100mm,Mechanical & Industrial Tools,58.0,55,18
+P017,Industrial Timing Belt HTD-8M,Mechanical & Industrial Tools,19.8,180,9
+P018,High-Torque Planetary Gearbox,Mechanical & Industrial Tools,240.0,20,28
+P019,Linear Motion Guide Rail 1000mm,Mechanical & Industrial Tools,95.0,35,24
+P020,Brass Gate Valve 1-Inch,Mechanical & Industrial Tools,26.5,110,12
+P021,High-Density Polyethylene Granules (25kg),Raw Materials & Chemicals,48.0,200,11
+P022,Industrial Synthetic Lubricant ISO 68 (20L),Raw Materials & Chemicals,92.0,60,14
+P023,Epoxy Resin Hardener Blend (10kg),Raw Materials & Chemicals,64.0,80,15
+P024,Aluminum Alloy Ingot 6061 (kg),Raw Materials & Chemicals,5.2,600,12
+P025,Silicone Thermal Conductive Paste (1kg),Raw Materials & Chemicals,35.0,90,8
+P026,Sulfuric Acid Technical Grade 98% (30L),Raw Materials & Chemicals,55.0,45,16
+P027,Cold Rolled Steel Coil Strip (50m),Raw Materials & Chemicals,140.0,30,20
+P028,Titanium Dioxide White Pigment (25kg),Raw Materials & Chemicals,88.0,50,18
+P029,Compressed Argon Shielding Gas Cylinder,Raw Materials & Chemicals,115.0,40,10
+P030,Copper Wire Spool 1.5mm 100m,Raw Materials & Chemicals,72.0,100,14
+P031,Heavy-Duty Corrugated Box 5-Ply (Bundle 50),Packaging Materials,38.5,350,7
+P032,Biodegradable Air Bubble Wrap 50m Roll,Packaging Materials,22.0,280,6
+P033,Industrial Stretch Film Wrap 500mm,Packaging Materials,16.5,450,5
+P034,Reinforced Gummed Paper Tape (Box 12),Packaging Materials,28.0,200,8
+P035,Pallet Thermal Insulated Cover,Packaging Materials,45.0,75,12
+P036,Anti-Static ESD Shielding Bags (Pack 500),Packaging Materials,32.0,160,9
+P037,High-Impact Corner Edge Protectors (100pk),Packaging Materials,18.0,300,7
+P038,Molded Pulp Cushion Trays (Pack 200),Packaging Materials,25.0,190,10
+P039,Desiccant Silica Gel Packets 50g (Pack 100),Packaging Materials,14.5,240,6
+P040,Barcoded Shipping Thermal Labels (4x6 Roll),Packaging Materials,12.0,500,5
+P041,Ergonomic Industrial Anti-Fatigue Mat,Office & Facility Supplies,54.0,40,14
+P042,Commercial HEPA Air Filter Cartridge,Office & Facility Supplies,68.0,50,15
+P043,Heavy-Duty Nitrile Safety Gloves (Box 100),Office & Facility Supplies,15.5,350,7
+P044,LED High-Bay Industrial Fixture 150W,Office & Facility Supplies,82.0,45,18
+P045,Digital Laser Non-Contact Thermometer,Office & Facility Supplies,36.0,70,10
+P046,High-Visibility Safety Vests Class 2 (Pack 10),Office & Facility Supplies,29.0,120,8
+P047,Spill Containment Absorbent Booms (Pack 4),Office & Facility Supplies,78.0,35,16
+P048,Industrial Hand Sanitizer Dispenser Refill (4L),Office & Facility Supplies,21.0,180,8
+P049,RFID Warehouse Scanner Handheld Terminal,Office & Facility Supplies,380.0,15,28
+P050,First Aid Emergency Trauma Kit Wall-Mount,Office & Facility Supplies,95.0,30,14
